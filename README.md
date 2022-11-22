@@ -2,7 +2,7 @@
 <h1>Rust Calculator in Solana <h1>
 </div>
 
-This Calculator is written Rust using [Anchor ⚓](https://project-serum.github.io/anchor/getting-started/introduction.html) 
+This Calculator is written in Rust using [Anchor ⚓](https://project-serum.github.io/anchor/getting-started/introduction.html) 
 
 ## Setting up the Environment:
 
